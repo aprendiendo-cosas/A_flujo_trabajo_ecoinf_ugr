@@ -30,7 +30,7 @@ Además del esquema, debes de incluir un breve texto (media página más o menos
 Crea un documento de google drive con el texto anterior y con la URL del flujo de trabajo (si estás usando draw.io). Sube dicho documento al classroom. Si al compartir le dices a google que permita editar, podré añadir comentarios cuando corrija el trabajo.
 
 ## Evaluación
-Este ejercicio se evaluará dos veces. Es decir, deberéis entregar una primera versión el día 29 de enero. Yo revisaré las entregas y la devolveré con una serie de comentarios. Entonces analizaréis dichos comentarios y trataréis de mejorar vuestro trabajo. Tras esto lo entregaréis de nuevo el 5 de febrero. Os quedaréis con la calificación más alta de las dos. Esta técnica de evaluación/calificación es útil para tomar conciencia de lo que no se ha aprendido correctamente. Os brinda una oportunidad de reevaluar el trabajo y de mejorarlo en caso de que sea necesario.
+Este ejercicio se evaluará dos veces. Es decir, deberéis entregar una primera versión el día 5 de febrero. Yo revisaré las entregas y la devolveré con una serie de comentarios. Entonces analizaréis dichos comentarios y trataréis de mejorar vuestro trabajo. Tras esto lo entregaréis de nuevo el 12 de febrero. Os quedaréis con la calificación más alta de las dos. Esta técnica de evaluación/calificación es útil para tomar conciencia de lo que no se ha aprendido correctamente. Os brinda una oportunidad de reevaluar el trabajo y de mejorarlo en caso de que sea necesario.
 
 Las dos evaluaciones se realizarán según la rúbrica que podéis ver en en la siguiente tabla. Dicha rúbrica está basada en los pasos que hemos dado para construir el flujo de trabajo:
 
