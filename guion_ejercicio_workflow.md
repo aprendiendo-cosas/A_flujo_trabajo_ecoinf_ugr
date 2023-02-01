@@ -1,8 +1,8 @@
 # Ejercicio sobre flujos de trabajo. Construye un flujo de trabajo sobre tu TFM
 
 
-> + **_Versión_**: 1
-> + **_Asignatura (titulación)_**: Ciclo de gestión del dato: ecoinformática (máster conservación, gestión y restauración de la biodiversidad. UGR). Curso 2021-2022
+> + **_Versión_**: 2022-2023
+> + **_Asignatura (titulación)_**: Ciclo de gestión del dato: ecoinformática (máster conservación, gestión y restauración de la biodiversidad. UGR). 
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 
 
@@ -64,8 +64,3 @@ Las dos evaluaciones se realizarán según la rúbrica que podéis ver en en la 
 
 
 
-
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QuplRUy5PXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
